@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "rm -rf build",
     "test": "jest",
-    "test:cucumber": "tsc && cucumber-js --loader ts-node/esm --import 'features/step-definitions/**/*.ts'"
+    "test:cucumber": "tsc && cucumber-js"
   },
   "keywords": [],
   "author": "",
