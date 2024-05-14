@@ -1,2 +1,4 @@
 typescript/build
 typescript/node_modules
+python/bdd-demo
+**/__pycache__
